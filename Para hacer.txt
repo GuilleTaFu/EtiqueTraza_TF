@@ -1,0 +1,4 @@
+FALTA : Hacer un acceso para administrador
+FALTA : Hacer una tabla que muestre los movimientos. Permitir ordenar por campos "Usuario", "Fecha", "ID ARTICULO". Solo el Admin puede ingresar
+FALTA : Hacer ABM de Usuarios. Solo el Admin puede ingresar
+
