@@ -1,0 +1,22 @@
+Direccion y nombre de la impresora compartida
+[impdir]\\192.168.10.999\ZDesigne
+Nombre del archivo de impresión actualmente en desuso
+[batnom]imprimir.bat
+String para imprimir
+[battex]COPY imprimir.epl
+Direccion donde se guardará el archivo para subir a Sole
+[solpat]C:\Users\gcardillo.FUMACA\Desktop\
+Nombre del archivo para subir a Sole
+[solnom]subirStock.txt
+Titulo de las columnas
+[solti1]Cliente
+[solti2]Codigo
+[solti3]Cantidad
+Ancho de las columnas
+[solco1]11
+[solco2]18
+[solco3]14
+Numero de cliente
+[solcli]2574
+
+
